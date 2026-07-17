@@ -5,3 +5,5 @@ __pycache__/
 .DS_Store
 data/
 *.csv
+02_supervise/modeles/
+02_supervise/td_classificationsoluce.ipynb
